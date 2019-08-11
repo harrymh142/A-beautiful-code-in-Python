@@ -1,5 +1,5 @@
 import time
-
+import time
 board = {}
 spalten = []
 zeilen = []
