@@ -1,5 +1,4 @@
 from random import shuffle
-test2
 
 superlatives = "amazing gorgeous blazing stunning tremendous greatest best fantastic \
                phenomenal delightful ambitious outstanding incredible spectacular \
